@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -31,4 +31,4 @@ int main()
     }while(guessed!=randomNumber);
     printf("You guessed the number in %d guesses",no_of_guesses);
     return 0;
-}*/
+}
